@@ -1,0 +1,21 @@
+* { border: 1px solid black; }
+
+h1 {
+    text-align: center;
+}
+
+.cat {
+  text-align: center;
+}
+
+.click-count {
+  text-align: center;
+}
+
+.cat-name {
+  text-align: center;
+}
+
+.choose-your-cat {
+  text-align: center;
+}
